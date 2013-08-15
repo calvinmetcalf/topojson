@@ -1,0 +1,13 @@
+{
+    "node":true,
+    "curly": true,
+	"eqeqeq": true,
+	"latedef": "nofunc",
+	"undef": true,
+	"unused": true,
+	"trailing":true,
+	"indent":2,
+    "camelcase":true,
+    "eqnull":true,
+    "loopfunc":true
+}
